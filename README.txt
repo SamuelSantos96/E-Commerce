@@ -1,0 +1,1 @@
+This project is based on the tutorial of Academind (NodeJS / Express / MongoDB - Build a Shopping Cart). https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w
