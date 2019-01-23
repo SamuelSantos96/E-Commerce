@@ -1,0 +1,19 @@
+Install Node.js and Visual Studio Code
+
+Visual Studio Code -> Open Folder -> Project's Folder -> Terminal:
+
+    npm install express-generator -g
+
+    express E-Commerce --hbs
+
+    cd E-Commerce
+
+    npm install
+
+    npm start   //Starts Server
+
+    Ctrl + C    //Stops Server
+
+Get Bootstrap: https://getbootstrap.com/docs/4.2/getting-started/download/
+
+Get jQuery: https://code.jquery.com/
