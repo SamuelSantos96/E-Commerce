@@ -1,5 +1,7 @@
 .thumbnail img {
-    max-height: 150px;
+    /*max-height: 150px;*/
+    max-height: 300px;
+    min-height: 200px;
 }
 
 .thumbnail .description {
@@ -9,4 +11,8 @@
 .thumbnail .price {
     font-weight: bold;
     font-size: 16px;
+}
+
+.thumbnail:hover {
+    border: 1px solid #7f7f7f;
 }
